@@ -18,8 +18,7 @@ The project includes documentation, testing methodology, Burp Suite evidence, an
 ## 📄 Reports
 The `/report` folder contains:
 
-- **Basic Security Assessment Report (PDF)**
-- **Advanced Professional Report with TOC, Risk Matrix, CVSS (PDF)**
+- **Report (DOC)**
 
 ---
 
